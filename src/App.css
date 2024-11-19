@@ -1,0 +1,19 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.inputText {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  width: 500px;
+  background-color: #003049;
+  border-radius: 10px;
+  
+}
+
+.btn {
+  padding: 20px;
+  background-color: #646cff;
+}
