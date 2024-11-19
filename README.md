@@ -1,3 +1,3 @@
-# Starter code
-The code contains the initial HTML and CSS structure for the token launchpad.
-It also adds the solana wallet adapter to the project.
+ TOKEN LAUNCHPAD WEB APP 
+
+ It is an web app to create your Decentralized token (coin) which is created using various solana libraries. 
